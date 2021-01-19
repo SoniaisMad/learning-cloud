@@ -29,6 +29,14 @@ What was difficult : nothing, pretty simple
 
 [Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/OPS/OPS01/OPS01-AWS100.md)
 
+What i learned : how to upload a template and create a stack, see the resources created and then delete it.
+
+What was difficult : the template was pre-made, i need to understand how to create my own templates.
+
+### => Practice : Deploy a VPC with Terraform
+
+[Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/OPS/OPS01/OPS01-AWS300.md)
+
 What i learned : #in-progress
 
 What was difficult : #in-progress
