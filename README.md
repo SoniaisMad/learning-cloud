@@ -33,13 +33,23 @@ What i learned : how to upload a template and create a stack, see the resources 
 
 What was difficult : the template was pre-made, i need to understand how to create my own templates.
 
+### => Practice : Deploy lambdas with serverless framework
+
+[Link](https://crunchcrunch.me/something-cool-serverless-framework)
+
+What i learned : First time i used the framework, pretty impressed.
+
+What was difficult : Documentation is super well explained, so not much difficulties here
+
 ### => Practice : Deploy a VPC with Terraform
 
 [Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/OPS/OPS01/OPS01-AWS300.md)
 
 What i learned : #in-progress
 
-What was difficult : #in-progress
+What was difficult : I did not know where to start, what resource depend on what, so i did it first on the console, to see what i needed to create and then i tried to do it on Terraform.
+
+
 
 
 
