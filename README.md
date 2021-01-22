@@ -45,9 +45,11 @@ What was difficult : Documentation is super well explained, so not much difficul
 
 [Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/OPS/OPS01/OPS01-AWS300.md)
 
-What i learned : #in-progress
+What i learned : i already knew how to use terraform, i just struggled to declare all the right resources.
 
 What was difficult : I did not know where to start, what resource depend on what, so i did it first on the console, to see what i needed to create and then i tried to do it on Terraform.
+
+> here is my code : https://github.com/SoniaisMad/terraform-vpc-aws
 
 
 
