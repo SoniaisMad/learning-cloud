@@ -51,6 +51,29 @@ What was difficult : I did not know where to start, what resource depend on what
 
 > here is my code : https://github.com/SoniaisMad/terraform-vpc-aws
 
+### => Practice : Host a simple static webpage with S3 and CloudFront
+
+[Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/NET/NET04/NET04-AWS100.md)
+
+What i learned : #in-progress
+
+What was difficult : #in-progress
+
+### => Practice : Create a Lambda to add 2 numbers
+
+[Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/LES/LES01/LES01-AWS100.md)
+
+What i learned : #todo
+
+What was difficult : #todo
+
+### => Practice : Create a Serverless API
+
+[Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/LES/LES01/LES01-AWS200.md)
+
+What i learned : #todo
+
+What was difficult : #todo
 
 
 
