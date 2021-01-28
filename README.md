@@ -55,9 +55,9 @@ What was difficult : I did not know where to start, what resource depend on what
 
 [Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/NET/NET04/NET04-AWS100.md)
 
-What i learned : #in-progress
+What i learned : How to create a CloudFront distribution for the first time
 
-What was difficult : #in-progress
+What was difficult : I got Access Denied the first time i tried to access to my Cloudfront link, but it was because the object inside the S3 was note public.
 
 ### => Practice : Create a Lambda to add 2 numbers
 
