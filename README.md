@@ -63,9 +63,9 @@ What was difficult : I got Access Denied the first time i tried to access to my 
 
 [Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/LES/LES01/LES01-AWS100.md)
 
-What i learned : #todo
+What i learned : I did it from the AWS console, i will try to do it from Cloud9 or SAM next time.#todo
 
-What was difficult : #todo
+What was difficult : Pretty easy to do, created a test event then to test my code.
 
 ### => Practice : Create a Serverless API
 
