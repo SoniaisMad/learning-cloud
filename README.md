@@ -71,11 +71,11 @@ What was difficult : Pretty easy to do, created a test event then to test my cod
 
 [Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/LES/LES01/LES01-AWS200.md)
 
-What i learned : #todo
+What i learned : I did it twice => first time from the console, then with terraform
 
-What was difficult : #todo
+What was difficult : From the console, really easy to do. With Terraform, a lot of resources to create the API GW, must follow the doc carefully.
 
-
+Here is my code : https://github.com/SoniaisMad/terraform-lambda-api-gateway
 
 
 
