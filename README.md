@@ -77,5 +77,41 @@ What was difficult : From the console, really easy to do. With Terraform, a lot 
 
 Here is my code : https://github.com/SoniaisMad/terraform-lambda-api-gateway
 
+### => Practice : Creating an Amazon RDS DB Instance
+
+[Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/DBS/DBS03/DBS03-AWS100.md)
+
+What i learned : 
+
+What was difficult : 
+
+What is RDS?
+How to create a database instance on RDS?
+How to connect to RDS database?
+
+### => Practice : Create an Aurora RDS Database
+
+[Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/DBS/DBS03/DBS03-AWS200.md)
+
+What i learned : 
+
+What was difficult : 
+
+What type of database is Aurora?
+What is the minimum storage for Aurora?
+What is Aurora Serverless and how does it differ from regular RDS DB instances?
+
+### => Practice : SQLServer Native Backup and Restore on RDS
+
+[Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/DBS/DBS03/DBS03-AWS201.md)
+
+What i learned : 
+
+What was difficult : 
+
+How to migrate database from on-prem to RDS?
+How to restore database from native SQL Server backup?
+How to take manual backup on RDS?
+
 
 
