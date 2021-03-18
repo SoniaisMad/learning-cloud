@@ -81,9 +81,10 @@ Here is my code : https://github.com/SoniaisMad/terraform-lambda-api-gateway
 
 [Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/DBS/DBS03/DBS03-AWS100.md)
 
-What i learned : 
+What i learned : Pretty easy to do, must read carefully all the options to not miss something. Included in the free tier ! 
 
-What was difficult : 
+What was difficult : Connection to the DB, i had the error ERROR 2003 (HY000): Can't connect to MySQL server on '<instance>' (110). It was just because i did not authorize the public access.
+
 
 What is RDS?
 How to create a database instance on RDS?
@@ -93,9 +94,7 @@ How to connect to RDS database?
 
 [Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/DBS/DBS03/DBS03-AWS200.md)
 
-What i learned : 
-
-What was difficult : 
+I did not do it because Amazon Aurora is not included in the free tier.
 
 What type of database is Aurora?
 What is the minimum storage for Aurora?
