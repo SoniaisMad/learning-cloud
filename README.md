@@ -100,17 +100,23 @@ What type of database is Aurora?
 What is the minimum storage for Aurora?
 What is Aurora Serverless and how does it differ from regular RDS DB instances?
 
-### => Practice : SQLServer Native Backup and Restore on RDS
+### => Practice : Push a Docker image to Amazon ECR repository
 
-[Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/DBS/DBS03/DBS03-AWS201.md)
+[Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/COM/COM04/COM04-AWS100.md)
 
 What i learned : 
 
 What was difficult : 
 
-How to migrate database from on-prem to RDS?
-How to restore database from native SQL Server backup?
-How to take manual backup on RDS?
+### => Practice : Github Actions + AWS CodePipeline
+
+[Link]()
+
+What i learned : 
+
+What was difficult : 
+
+
 
 
 
