@@ -104,9 +104,9 @@ What is Aurora Serverless and how does it differ from regular RDS DB instances?
 
 [Link](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/COM/COM04/COM04-AWS100.md)
 
-What i learned : 
+What i learned : How to create a repository and push an image to it using the CLI
 
-What was difficult : 
+What was difficult : Super easy to do, the "View Push Command" is super useful ! 
 
 ### => Practice : Github Actions + AWS CodePipeline
 
