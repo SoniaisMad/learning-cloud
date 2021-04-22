@@ -122,7 +122,7 @@ What was difficult :
 
 What i learned : Super easy to create and deploy stacks in TypeScript
 
-What was difficult : 
+What was difficult : Error 403 on some deploys with AWS Vault - works perfectly with aws cli though
 
 
 
