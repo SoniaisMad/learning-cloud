@@ -116,6 +116,14 @@ What i learned :
 
 What was difficult : 
 
+### => Practive : Discover AWS CDK
+
+[Link](https://cdkworkshop.com/)
+
+What i learned : Super easy to create and deploy stacks in TypeScript
+
+What was difficult : 
+
 
 
 
