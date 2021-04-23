@@ -108,13 +108,6 @@ What i learned : How to create a repository and push an image to it using the CL
 
 What was difficult : Super easy to do, the "View Push Command" is super useful ! 
 
-### => Practice : Github Actions + AWS CodePipeline
-
-[Link]()
-
-What i learned : 
-
-What was difficult : 
 
 ### => Practive : Discover AWS CDK
 
