@@ -117,7 +117,12 @@ What i learned : Super easy to create and deploy stacks in TypeScript
 
 What was difficult : Error 403 on some deploys with AWS Vault - works perfectly with aws cli though
 
+### => Practive : AWS Docker Workshop
 
+[Link](https://docker.awsworkshop.io/)
 
+What i learned : How to deploy an app on AWS ECS from docker-compose
+
+What was difficult : understand all the resources created +++
 
 
